@@ -1,0 +1,350 @@
+1000 videos scraped
+videos after 2025-04-01 00:00:00
+tags: ['alevels', 'olevels', 'sgstudents', 'studytips', 'studywithme', 'studymotivation', 'sgtution', 'tutioncentre', 'education', 'academicgoals', 'studyhacks', 'studentlife', 'examseason', 'learnontiktok', 'studyvlog', 'college', 'student', 'studynotes']
+videos sorted by playCount
+music sorted by appearances. Note: original music is filtered out
+TRENDING POSTS
+----------------------------------------
+Video ID: 7488453979186269471
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=aceae891bdc94f998f89da006d10e81f&is_play_url=1&item_id=7488453979186269471&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjc0NTY0M2QzYWVlZjkxN2NlODk0NTc0NDdhMWVmMTIy&tk=tt_chain_token&video_id=v15044gf0000cvm583fog65sadq37ok0
+URL2: https://www.tiktok.com/@brookemonk_/video/7488453979186269471
+Author: brookemonk_
+stats: {'collectCount': '228508', 'commentCount': '13371', 'diggCount': '5750448', 'playCount': '43205243', 'repostCount': '0', 'shareCount': '63884'}
+hashtags: []
+sound: sonido original, original: True
+date created: 2025-04-02 05:06:33
+----------------------------------------
+Video ID: 7491431099969588526
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=2da270d7017c4155953bb2220097298d&is_play_url=1&item_id=7491431099969588526&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjMzY2ZiMzQ5ZmY0NmQ0ZTZlZWUzZWQ5NWNiN2JjNjQ5&tk=tt_chain_token&video_id=v12044gd0000cvreb8fog65m4lt8gb00
+URL2: https://www.tiktok.com/@mspiercedramaclub/video/7491431099969588526
+Author: mspiercedramaclub
+stats: {'collectCount': '84460', 'commentCount': '10755', 'diggCount': '2202846', 'playCount': '19876460', 'repostCount': '0', 'shareCount': '67819'}
+hashtags: ['teacher', 'comedy', 'foryoupage', 'studentlife', 'fyp', 'acting', 'highschool', 'fypシ', 'skits', 'dramaclub', 'teacherlife', 'mspierce']
+sound: WTHELLY, original: False
+date created: 2025-04-10 05:39:22
+----------------------------------------
+Video ID: 7489181423581056298
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=b9ee5650eabc4b12ae6d71c0e4b1b365&is_play_url=1&item_id=7489181423581056298&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjE3ZGRmYmZhZTkwNTIxMzJmNjM0NTRkZjdkYzg1Nzdm&tk=tt_chain_token&video_id=v12044gd0000cvneji7og65qr36q8b7g
+URL2: https://www.tiktok.com/@chantalcaz/video/7489181423581056298
+Author: chantalcaz
+stats: {'collectCount': '141273', 'commentCount': '13599', 'diggCount': '2803670', 'playCount': '16729761', 'repostCount': '0', 'shareCount': '53984'}
+hashtags: []
+sound: Kitchen Fan Lullaby (Raw), original: False
+date created: 2025-04-04 04:09:06
+----------------------------------------
+Video ID: 7491420007000296747
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1880f555a04c410b8f4cdeb75f96707b&is_play_url=1&item_id=7491420007000296747&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjE3YjY5OTYwODY2MzYyMDc5MDIyNWY4NTExMDE0MTFh&tk=tt_chain_token&video_id=v12044gd0000cvrdlfnog65lu2rvqmeg
+URL2: https://www.tiktok.com/@wolfe_cte/video/7491420007000296747
+Author: wolfe_cte
+stats: {'collectCount': '186678', 'commentCount': '10374', 'diggCount': '421277', 'playCount': '8205152', 'repostCount': '0', 'shareCount': '96551'}
+hashtags: ['fyp', 'education', 'teacher', 'careertech', 'skilledtrades', 'highschool', 'tapemeasure', 'learnontiktok', 'bluecollar', 'skills4all', 'welder', 'welding', 'tips']
+sound: original sound, original: True
+date created: 2025-04-10 04:56:13
+----------------------------------------
+Video ID: 7492033014042463518
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=12ab431631b24087a90aa0d143115d67&is_play_url=1&item_id=7492033014042463518&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjA2ZjAyZjlkZTU1Y2YyNTUxYTA1NWZlYjk2NDUzYTlk&tk=tt_chain_token&video_id=v15044gf0000cvsgoqnog65ulf7tr9cg
+URL2: https://www.tiktok.com/@free.radicals0/video/7492033014042463518
+Author: free.radicals0
+stats: {'collectCount': '27711', 'commentCount': '4622', 'diggCount': '695496', 'playCount': '5384593', 'repostCount': '0', 'shareCount': '18617'}
+hashtags: ['highschool', 'student', 'studentlife']
+sound: original sound, original: True
+date created: 2025-04-11 20:35:13
+----------------------------------------
+Video ID: 7492209831537855749
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=826f1ff47b384279ac341ede6e202108&is_play_url=1&item_id=7492209831537855749&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmFiYjg0NDM0NTYwZWVkYTQ0YTI0MGU0OWYxOTk3Nzdi&tk=tt_chain_token&video_id=v09044g40000cvsqpnfog65ji2m71b2g
+URL2: https://www.tiktok.com/@ebraheemabuessa/video/7492209831537855749
+Author: ebraheemabuessa
+stats: {'collectCount': '24553', 'commentCount': '1698', 'diggCount': '594028', 'playCount': '3129653', 'repostCount': '0', 'shareCount': '56692'}
+hashtags: ['uofa', 'examseason', 'cooked']
+sound: original sound, original: True
+date created: 2025-04-12 08:00:46
+----------------------------------------
+Video ID: 7488053019578240279
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=9bcf6b634795475e942a2534123d00cb&is_play_url=1&item_id=7488053019578240279&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQ3NjlmNWY4N2Y1YjQ1NTkyOGE3OGU5NDM4OTFiNjU5&tk=tt_chain_token&video_id=v24044gl0000cvleghfog65lfamorc50
+URL2: https://www.tiktok.com/@lilibelleeeeart/video/7488053019578240279
+Author: lilibelleeeeart
+stats: {'collectCount': '50060', 'commentCount': '3031', 'diggCount': '393249', 'playCount': '3078340', 'repostCount': '0', 'shareCount': '29220'}
+hashtags: ['art', 'artgcse', 'artalevel', 'artexam', 'gcses', 'artsketchbook', 'gcseartsketchbook', 'artistresearch', 'artistresearchpage', 'alevelart', 'gcseart', 'sketchbook', 'artist', 'alevelstudent', 'gcsestudent', 'gcses2025', 'alevels2025']
+sound: snooze sped up, original: True
+date created: 2025-04-01 03:10:08
+----------------------------------------
+Video ID: 7488432004917136662
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=f30ef2341b1e49319e756009a07e1507&is_play_url=1&item_id=7488432004917136662&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmViZWNmYmY2NTlhZjYwMzQxMGUxYzU1NjEzNWYyNDkx&tk=tt_chain_token&video_id=v24044gl0000cvm3vvvog65orlcbp2b0
+URL2: https://www.tiktok.com/@trace8116/video/7488432004917136662
+Author: trace8116
+stats: {'collectCount': '114495', 'commentCount': '10223', 'diggCount': '699946', 'playCount': '2896086', 'repostCount': '0', 'shareCount': '28201'}
+hashtags: ['suicideprevention', 'shprevention', 'suicidepreventionmonth', 'safespace', 'foryoupage', 'awareness', 'foru']
+sound: Creep, original: False
+date created: 2025-04-02 03:40:47
+----------------------------------------
+Video ID: 7492918116490497326
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=3763ffbbc6384d13a909c3f413e74a58&is_play_url=1&item_id=7492918116490497326&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjU0NTgyY2NjODgzNjYzZGZlYzc2NjViZmU3ZWE3Yzkz&tk=tt_chain_token&video_id=v12044gd0000cvu30hfog65k758gdetg
+URL2: https://www.tiktok.com/@maxpreps/video/7492918116490497326
+Author: maxpreps
+stats: {'collectCount': '4614', 'commentCount': '1219', 'diggCount': '81998', 'playCount': '2610494', 'repostCount': '0', 'shareCount': '8489'}
+hashtags: ['highschool', 'graduation', 'students', 'classmates', 'paper', 'excited', 'hype', 'hallway', 'seniors', 'classof2025', 'studentlife', 'crazy', 'paperthrow', 'athlete', 'sports', 'highlight']
+sound: original sound, original: True
+date created: 2025-04-14 05:49:39
+----------------------------------------
+Video ID: 7491991258034916616
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=258780298eae4bf58d9e59af377d6af6&is_play_url=1&item_id=7491991258034916616&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjZmNGNlZWQxZDQzNTM1NjA2YjAyZTZmNjliYjRmNDA1&tk=tt_chain_token&video_id=v14044g50000cvseclvog65nisbblsc0
+URL2: https://www.tiktok.com/@ace.xi/video/7491991258034916616
+Author: ace.xi
+stats: {'collectCount': '51434', 'commentCount': '2643', 'diggCount': '539762', 'playCount': '2602858', 'repostCount': '0', 'shareCount': '69000'}
+hashtags: ['graduation', 'classof2025', 'stemstudent', 'highschool']
+sound: original sound - coffee☕., original: True
+date created: 2025-04-11 17:52:31
+----------------------------------------
+Video ID: 7491358144363269422
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=3b17c14d0d7241898a33ad3b3761cc20&is_play_url=1&item_id=7491358144363269422&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjM4OWFiNjFjMTM0ZmRkNmQ1OWZhZmNmMzYyM2RhY2Rk&tk=tt_chain_token&video_id=v12044gd0000cvracavog65l0efuos50
+URL2: https://www.tiktok.com/@novara_hominum/video/7491358144363269422
+Author: novara_hominum
+stats: {'collectCount': '31093', 'commentCount': '1160', 'diggCount': '772380', 'playCount': '2512806', 'repostCount': '0', 'shareCount': '58685'}
+hashtags: ['college', '16incollege', 'collegestudent', 'collegelife', 'CollegeGotMeLike', 'premed', 'premedstudent', 'premedlife', 'premeds', 'premedmotivation', 'psychology']
+sound: original sound - liv<3, original: True
+date created: 2025-04-10 00:56:34
+----------------------------------------
+Video ID: 7491665006774308126
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=08b446b167d84122b3707479442b683c&is_play_url=1&item_id=7491665006774308126&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjlkNDVhY2JkNWY1NDE2MTU2NmI0ZDAyNDczNTNhMTNj&tk=tt_chain_token&video_id=v15044gf0000cvrrprnog65jkdkenbjg
+URL2: https://www.tiktok.com/@quavered_official/video/7491665006774308126
+Author: quavered_official
+stats: {'collectCount': '31183', 'commentCount': '7375', 'diggCount': '245019', 'playCount': '2174749', 'repostCount': '0', 'shareCount': '31456'}
+hashtags: ['musiceducation', 'music', 'quaver', 'musicteachers', 'quavermusic']
+sound: bad romance, original: True
+date created: 2025-04-10 20:46:41
+----------------------------------------
+Video ID: 7490374600610647342
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=83a04bd23c6645ea97c00c1ec336f0fe&is_play_url=1&item_id=7490374600610647342&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQzYzk1NTE4OWQyMDI1NzEzOGU5NmExNzcwNzk1MWNi&tk=tt_chain_token&video_id=v12044gd0000cvpieonog65l5u07coi0
+URL2: https://www.tiktok.com/@study_with_ricky/video/7490374600610647342
+Author: study_with_ricky
+stats: {'collectCount': '107724', 'commentCount': '1304', 'diggCount': '323936', 'playCount': '2141095', 'repostCount': '0', 'shareCount': '67401'}
+hashtags: ['studytok', 'studyhacks', 'lecture', 'studytips', 'student', 'collegestudent', 'college', 'studynotes', 'class', 'study', 'collegelife', 'studymotivation', 'studywithme']
+sound: Chopin Nocturne No. 2 Piano Mono, original: False
+date created: 2025-04-07 09:19:37
+----------------------------------------
+Video ID: 7489193709012110614
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=8c26f6c9754443ac9b022d7585f184bd&is_play_url=1&item_id=7489193709012110614&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjExODQ2M2U5OGE2YTQxNTNiYmQzZTNlYmM5MmRhNzVj&tk=tt_chain_token&video_id=v24044gl0000cvnfb9vog65s1vu18g20
+URL2: https://www.tiktok.com/@studywjul/video/7489193709012110614
+Author: studywjul
+stats: {'collectCount': '73661', 'commentCount': '1775', 'diggCount': '419961', 'playCount': '1883326', 'repostCount': '0', 'shareCount': '15246'}
+hashtags: ['studytok', 'studywithme', 'languagelearning', 'polyglot', 'studymotivation', 'studysession', 'consistency', 'productivity', 'academicsuccess', 'studentlife', 'koreanlanguage']
+sound: original sound, original: True
+date created: 2025-04-04 04:56:36
+----------------------------------------
+Video ID: 7491381243859307806
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1f9d321d2a70411aa1ab1c1b9e9bd65e&is_play_url=1&item_id=7491381243859307806&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmEyMGUwNTNiN2FmNGNkMTA1NDVkMjkzOGVhNzAxOGJj&tk=tt_chain_token&video_id=v15044gf0000cvrblvvog65jj617lgi0
+URL2: https://www.tiktok.com/@pooja.z/video/7491381243859307806
+Author: pooja.z
+stats: {'collectCount': '30451', 'commentCount': '1439', 'diggCount': '297512', 'playCount': '1836083', 'repostCount': '0', 'shareCount': '23877'}
+hashtags: ['studymotivation', 'studymethod', 'activerecall', 'studyhacks', 'academiccomeback', 'studyroutine', 'studywithme', 'collegelife', 'university', 'studytips', 'studyvibes', 'studygrind', 'studyhard', 'productivestudent', 'studentlife', 'studytime', 'studytok', 'fyp', 'viral', 'tolan', 'tolanworld']
+sound: original sound, original: True
+date created: 2025-04-10 02:26:08
+----------------------------------------
+Video ID: 7491842965262912798
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=9de9fad861df4518aec66e8b23b66cda&is_play_url=1&item_id=7491842965262912798&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjUyOGM4YjU5MzY4ZmJlOGE4NDI5MGQ0ZDRiNTY3MWEz&tk=tt_chain_token&video_id=v15044gf0000cvs5s7nog65qlci54ibg
+URL2: https://www.tiktok.com/@krisenja/video/7491842965262912798
+Author: krisenja
+stats: {'collectCount': '12646', 'commentCount': '2345', 'diggCount': '182231', 'playCount': '1489671', 'repostCount': '0', 'shareCount': '1903'}
+hashtags: ['imbored', 'fyp', 'unhingedtok', 'student']
+sound: Ode to Joy- Symphony No.9 in D Minor 'choral', original: False
+date created: 2025-04-11 08:17:31
+----------------------------------------
+Video ID: 7491849147948059935
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=e6b6fe69fad24f7883f3fd484b164832&is_play_url=1&item_id=7491849147948059935&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQ3YjNlYWJkZjI0Nzg4NTE2NDMzZWEzOGY0Njk4ODg5&tk=tt_chain_token&video_id=v15044gf0000cvs69hnog65tq13dkku0
+URL2: https://www.tiktok.com/@oogiii222/video/7491849147948059935
+Author: oogiii222
+stats: {'collectCount': '10731', 'commentCount': '645', 'diggCount': '270906', 'playCount': '1450715', 'repostCount': '0', 'shareCount': '35372'}
+hashtags: ['collegestudent']
+sound: original sound, original: True
+date created: 2025-04-11 08:41:21
+----------------------------------------
+Video ID: 7488216828532198702
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=611e82c2955c49a8a7f291e780843811&is_play_url=1&item_id=7488216828532198702&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmZhYTRlOThjNmZkZTc2ZTMzZTFkOGViZTEzMDQ4YWQ2&tk=tt_chain_token&video_id=v12044gd0000cvlnnkfog65t392kuqm0
+URL2: https://www.tiktok.com/@lotus.jaeee/video/7488216828532198702
+Author: lotus.jaeee
+stats: {'collectCount': '32700', 'commentCount': '601', 'diggCount': '288150', 'playCount': '1378173', 'repostCount': '0', 'shareCount': '10801'}
+hashtags: ['lawmotivation', 'lawstudent', 'lawschool', 'futurelawyer', 'career', 'lawlife', 'fypシ', 'goviral', 'fypppppp', 'womeninlaw']
+sound: original sound, original: True
+date created: 2025-04-01 13:47:13
+----------------------------------------
+Video ID: 7488506913789906182
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=db46798051fd44cab9086b9c11d4c19f&is_play_url=1&item_id=7488506913789906182&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjAyYmIxNmM3NzEzMTQ0MmE1YTMzZTJhNTM1NjlkNDlj&tk=tt_chain_token&video_id=v09044g40000cvm8ag7og65kcgktg6m0
+URL2: https://www.tiktok.com/@studywithmichellex/video/7488506913789906182
+Author: studywithmichellex
+stats: {'collectCount': '32043', 'commentCount': '120', 'diggCount': '95309', 'playCount': '1332994', 'repostCount': '0', 'shareCount': '2482'}
+hashtags: ['studytok', 'studyhacks', 'activerecall', 'academicvalidation']
+sound: original sound - ✿, original: True
+date created: 2025-04-02 08:31:29
+----------------------------------------
+Video ID: 7490388875093822727
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=7a2ecac232634f6d9253f8be68bb92b7&is_play_url=1&item_id=7490388875093822727&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmM1ZmY5ZDQ0NGUxY2ZkMzIxMDg5OTRhYzIxNDVmNDc3&tk=tt_chain_token&video_id=v14044g50000cvpj5ovog65mtd05l1kg
+URL2: https://www.tiktok.com/@enrique_studys/video/7490388875093822727
+Author: enrique_studys
+stats: {'collectCount': '64381', 'commentCount': '871', 'diggCount': '195602', 'playCount': '1205658', 'repostCount': '0', 'shareCount': '42253'}
+hashtags: ['studytok', 'study', 'studyhacks', 'lecture', 'studytips', 'student', 'collegestudent', 'studynotes', 'class', 'college']
+sound: Chopin Nocturne No. 2 Piano Mono, original: False
+date created: 2025-04-07 10:14:32
+----------------------------------------
+Video ID: 7492945918853926186
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=70d97935d8ab459ca9ba6c1537a520ba&is_play_url=1&item_id=7492945918853926186&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmYxYjQ5NWM3ODIwNDViYmNjZjEzZDNiYjkzNDEwNDk5&tk=tt_chain_token&video_id=v12044gd0000cvu4jd7og65h4jol275g
+URL2: https://www.tiktok.com/@josthestudentdoc/video/7492945918853926186
+Author: josthestudentdoc
+stats: {'collectCount': '8997', 'commentCount': '5724', 'diggCount': '379855', 'playCount': '1120533', 'repostCount': '0', 'shareCount': '3900'}
+hashtags: ['match2025', 'medstudent', 'medstudenttiktok', 'futuredoctor', 'obgyn', 'medschool', 'premed', 'blackmedstudent', 'medschoollife']
+sound: original sound, original: True
+date created: 2025-04-14 07:37:35
+----------------------------------------
+Video ID: 7493291929770347822
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=52d931251ce5457199a0ebc6602f8eef&is_play_url=1&item_id=7493291929770347822&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjZlZjcyZjdjZDU0YmVkYjkzODE1NzdhOTE0OTM4NjRl&tk=tt_chain_token&video_id=v12300gd0001cvuoarnog65oek8798mg
+URL2: https://www.tiktok.com/@nowthisimpact/video/7493291929770347822
+Author: nowthisimpact
+stats: {'collectCount': '12562', 'commentCount': '2251', 'diggCount': '180167', 'playCount': '1002459', 'repostCount': '0', 'shareCount': '7963'}
+hashtags: []
+sound: original sound - NowThis Impact, original: True
+date created: 2025-04-15 06:00:16
+----------------------------------------
+Video ID: 7493162502927224072
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=4ca053a2f6944b6f802971ddb9577987&is_play_url=1&item_id=7493162502927224072&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmUyZTAyOWNmNGY5MjQxZTVhZThjMmEzNTgxMjQ2Njc1&tk=tt_chain_token&video_id=v14044g50000cvuguvvog65rdrvtckf0
+URL2: https://www.tiktok.com/@im_siowei/video/7493162502927224072
+Author: im_siowei
+stats: {'collectCount': '2730', 'commentCount': '389', 'diggCount': '23230', 'playCount': '835990', 'repostCount': '0', 'shareCount': '681'}
+hashtags: ['yaey', 'laugh', 'exam', 'school', 'teacher', 'student']
+sound: original sound - im_siowei, original: True
+date created: 2025-04-14 21:37:32
+----------------------------------------
+Video ID: 7491115005455256887
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=47a879b2e67341bb94d7c92908adddd3&is_play_url=1&item_id=7491115005455256887&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjRhZjM0YTQ5NmQ2MzUzNGY5MDA2MjM2YjZmM2MzMzlm&tk=tt_chain_token&video_id=v09044g40000cvqsbbvog65nafpipjkg
+URL2: https://www.tiktok.com/@jasminerenn/video/7491115005455256887
+Author: jasminerenn
+stats: {'collectCount': '6320', 'commentCount': '189', 'diggCount': '125557', 'playCount': '776334', 'repostCount': '0', 'shareCount': '1746'}
+hashtags: ['study', 'grind', 'college', 'exam', 'university', 'life', 'vlog']
+sound: original sound - 𝐊𝐳 です✨, original: True
+date created: 2025-04-09 09:12:14
+----------------------------------------
+Video ID: 7489971004349877526
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=54a289141e414f1abd3a0426fbb8e469&is_play_url=1&item_id=7489971004349877526&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjMzZGQ5MDJmNWYxMDFiODVmMmE3NDk5OTI1YzIwOGY5&tk=tt_chain_token&video_id=v24044gl0000cvorggvog65iul8br78g
+URL2: https://www.tiktok.com/@ali_kingston_university_/video/7489971004349877526
+Author: ali_kingston_university_
+stats: {'collectCount': '2154', 'commentCount': '846', 'diggCount': '93429', 'playCount': '692173', 'repostCount': '0', 'shareCount': '19411'}
+hashtags: ['englishliterature', 'alevels', 'college', 'school']
+sound: Very Sad, original: False
+date created: 2025-04-06 07:12:54
+----------------------------------------
+Video ID: 7492111498890824982
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=3fcff3bd26d34a0c9a94dbaba2652408&is_play_url=1&item_id=7492111498890824982&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjVjNDFlZjE3ODI2ZDY1MGVhZDA4ZWU3ODRiYWE3ZDhk&tk=tt_chain_token&video_id=v24044gl0000cvsl7dnog65uadmfp7s0
+URL2: https://www.tiktok.com/@studygia/video/7492111498890824982
+Author: studygia
+stats: {'collectCount': '7352', 'commentCount': '694', 'diggCount': '115096', 'playCount': '665210', 'repostCount': '0', 'shareCount': '15164'}
+hashtags: ['alevels', 'year13', 'sixthform']
+sound: som original, original: True
+date created: 2025-04-12 01:39:07
+----------------------------------------
+Video ID: 7488675953950936337
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=159a13c63b8949a69492bb0dcfaf155c&is_play_url=1&item_id=7488675953950936337&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjViN2JkYmIxNDllOTZiODVjOTIyNzA1YWMzZmQzODk0&tk=tt_chain_token&video_id=v14044g50000cvmhsmvog65pgjhliko0
+URL2: https://www.tiktok.com/@deindream/video/7488675953950936337
+Author: deindream
+stats: {'collectCount': '5762', 'commentCount': '180', 'diggCount': '65334', 'playCount': '643155', 'repostCount': '0', 'shareCount': '1310'}
+hashtags: ['studentok', 'studytok', 'schoolvlog', 'jhsstudent', 'afterschool', 'megrow', 'fypシ゚', 'foryoupage', 'fypplease', 'deindream']
+sound: Ako'y Sa'yo , Ika'y Akin Lamang, original: False
+date created: 2025-04-02 19:27:36
+----------------------------------------
+Video ID: 7491293796601253142
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=9455104a246e46db835e7873594085aa&is_play_url=1&item_id=7491293796601253142&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmU5MWUzYjRlYjgxNzY3NzI0ZDNmMWM2YWJiNmEwOWNi&tk=tt_chain_token&video_id=v24044gl0000cvr6ncvog65gubh2cs10
+URL2: https://www.tiktok.com/@shibsndbibbles/video/7491293796601253142
+Author: shibsndbibbles
+stats: {'collectCount': '5981', 'commentCount': '247', 'diggCount': '158223', 'playCount': '642630', 'repostCount': '0', 'shareCount': '22377'}
+hashtags: ['alevels', 'dissertation', 'uni', 'leeds']
+sound: It's the Sims, original: False
+date created: 2025-04-09 20:46:01
+----------------------------------------
+Video ID: 7489096856891444486
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=7684d1d3097540759a55adf4d99a787c&is_play_url=1&item_id=7489096856891444486&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmNmMjRlMmQ5YjgwMGVmN2I3N2ZhNjg3Y2JlMGJmMmZm&tk=tt_chain_token&video_id=v09044g40000cvn9q0fog65mg3bu0agg
+URL2: https://www.tiktok.com/@studyv.tok/video/7489096856891444486
+Author: studyv.tok
+stats: {'collectCount': '14173', 'commentCount': '820', 'diggCount': '101633', 'playCount': '606271', 'repostCount': '0', 'shareCount': '2533'}
+hashtags: ['studytok', 'studymotivation', 'student', 'study', 'focustree', 'studyingmotivation', 'discipline', 'focustreeapp', 'studywithme', 'motivation']
+sound: sonido original, original: True
+date created: 2025-04-03 22:40:47
+----------------------------------------
+Video ID: 7493249226349268270
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=23518320835a419892e33e7d39c3d913&is_play_url=1&item_id=7493249226349268270&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjU5ZmNhN2E4ZTQ0YjgxODM5YmQ4NTAzZmY1OTFiYjRj&tk=tt_chain_token&video_id=v12044gd0000cvulsafog65pk00jod1g
+URL2: https://www.tiktok.com/@aaronparnas1/video/7493249226349268270
+Author: aaronparnas1
+stats: {'collectCount': '3979', 'commentCount': '2407', 'diggCount': '71971', 'playCount': '558174', 'repostCount': '0', 'shareCount': '3354'}
+hashtags: []
+sound: original sound, original: True
+date created: 2025-04-15 03:14:46
+----------------------------------------
+TRENDING MUSIC
+----------------------------------------
+Music: Chopin Nocturne No. 2 Piano Mono
+Appearances: 3 in 1000 videos scraped
+Total likes: 519736, Average Likes: 173245.33333333334
+Total plays: 3351108, Average Plays: 1117036.0
+Total collects: 172165, Average Collects: 57388.333333333336
+Total comments: 2177, Average Comments: 725.6666666666666
+----------------------------------------
+Music: My Bubble Gum
+Appearances: 2 in 1000 videos scraped
+Total likes: 42117, Average Likes: 21058.5
+Total plays: 380111, Average Plays: 190055.5
+Total collects: 1553, Average Collects: 776.5
+Total comments: 115, Average Comments: 57.5
+----------------------------------------
+Music: WTHELLY
+Appearances: 1 in 1000 videos scraped
+Total likes: 2202846, Average Likes: 2202846.0
+Total plays: 19876460, Average Plays: 19876460.0
+Total collects: 84460, Average Collects: 84460.0
+Total comments: 10755, Average Comments: 10755.0
+----------------------------------------
+Music: Kitchen Fan Lullaby (Raw)
+Appearances: 1 in 1000 videos scraped
+Total likes: 2803670, Average Likes: 2803670.0
+Total plays: 16729761, Average Plays: 16729761.0
+Total collects: 141273, Average Collects: 141273.0
+Total comments: 13599, Average Comments: 13599.0
+----------------------------------------
+Music: Creep
+Appearances: 1 in 1000 videos scraped
+Total likes: 699946, Average Likes: 699946.0
+Total plays: 2896086, Average Plays: 2896086.0
+Total collects: 114495, Average Collects: 114495.0
+Total comments: 10223, Average Comments: 10223.0
+----------------------------------------
+Music: Ode to Joy- Symphony No.9 in D Minor 'choral'
+Appearances: 1 in 1000 videos scraped
+Total likes: 182231, Average Likes: 182231.0
+Total plays: 1489671, Average Plays: 1489671.0
+Total collects: 12646, Average Collects: 12646.0
+Total comments: 2345, Average Comments: 2345.0
+----------------------------------------
+Music: Very Sad
+Appearances: 1 in 1000 videos scraped
+Total likes: 93429, Average Likes: 93429.0
+Total plays: 692173, Average Plays: 692173.0
+Total collects: 2154, Average Collects: 2154.0
+Total comments: 846, Average Comments: 846.0
+----------------------------------------
+Music: Ako'y Sa'yo , Ika'y Akin Lamang
+Appearances: 1 in 1000 videos scraped
+Total likes: 65334, Average Likes: 65334.0
+Total plays: 643155, Average Plays: 643155.0
+Total collects: 5762, Average Collects: 5762.0
+Total comments: 180, Average Comments: 180.0
+----------------------------------------
+Music: It's the Sims
+Appearances: 1 in 1000 videos scraped
+Total likes: 158223, Average Likes: 158223.0
+Total plays: 642630, Average Plays: 642630.0
+Total collects: 5981, Average Collects: 5981.0
+Total comments: 247, Average Comments: 247.0
+----------------------------------------
+Music: DIM
+Appearances: 1 in 1000 videos scraped
+Total likes: 74357, Average Likes: 74357.0
+Total plays: 307918, Average Plays: 307918.0
+Total collects: 1875, Average Collects: 1875.0
+Total comments: 562, Average Comments: 562.0
+----------------------------------------
+report generated as report.txt

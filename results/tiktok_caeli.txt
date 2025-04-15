@@ -1,0 +1,350 @@
+1000 videos scraped
+videos after 2025-04-01 00:00:00
+videos sorted by playCount
+music sorted by appearances. Note: original music is filtered out
+
+TRENDING POSTS
+----------------------------------------
+Video ID: 7489970316337302815
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=ce809bcdcc1c4c8e8c529a4676c6a8dc&is_play_url=1&item_id=7489970316337302815&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjc3NmY0ZTFhNTg0MjU1NzdjMjlkZjc5MjE1YjgwMzVk&tk=tt_chain_token&video_id=v15044gf0000cvorb7fog65q9nmd6p9g
+URL2: https://www.tiktok.com/@lizzieb1zzie/video/7489970316337302815
+Author: lizzieb1zzie
+stats: {'collectCount': '44085', 'commentCount': '2226', 'diggCount': '1722142', 'playCount': '16779296', 'repostCount': '0', 'shareCount': '5249'}
+hashtags: ['womensfashion', 'cowlnecktop', 'ootd', 'womensstyle', 'outfitinspo', 'goingoutoutfit', 'fashion', 'getdressedwithme', 'tutorial', 'buildanoutfit', 'gdwm', 'style', 'outfit', 'inspiration', 'girl', 'fashiontok', 'styletips', 'outfitideas', 'inspo', 'girls', 'foryou', 'fyp']
+sound: original sound, original: True
+date created: 2025-04-06 07:10:36
+----------------------------------------
+Video ID: 7489672413504982318
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=045b5a98319345f490306ec9eaab5ab7&is_play_url=1&item_id=7489672413504982318&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQ0OTY3ZGE2OTE0MTc5NTk5ZjBhZDU1MTkxMzk3NjQy&tk=tt_chain_token&video_id=v12044gd0000cvoaie7og65t395nkpr0
+URL2: https://www.tiktok.com/@legally.vogue/video/7489672413504982318
+Author: legally.vogue
+stats: {'collectCount': '172256', 'commentCount': '1912', 'diggCount': '1549334', 'playCount': '8730111', 'repostCount': '0', 'shareCount': '47743'}
+hashtags: ['fashion', 'dresses', 'summer', 'relatable', 'foryoupageofficiall', 'viralllllll', 'followers➕']
+sound: mirrors, original: True
+date created: 2025-04-05 11:54:37
+----------------------------------------
+Video ID: 7490995252266945838
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=e9837e88e4da4e089f66ae1adf223d42&is_play_url=1&item_id=7490995252266945838&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjU3MGE4MjQ5MGQ1ZTcwMWE3ZTU3MTY5YmQxNDE4NjEx&tk=tt_chain_token&video_id=v12044gd0000cvqlp27og65hpodcor00
+URL2: https://www.tiktok.com/@mssethi.ss/video/7490995252266945838
+Author: mssethi.ss
+stats: {'collectCount': '13837', 'commentCount': '3085', 'diggCount': '237839', 'playCount': '7676692', 'repostCount': '0', 'shareCount': '16101'}
+hashtags: []
+sound: ولعتت, original: True
+date created: 2025-04-09 01:28:06
+----------------------------------------
+Video ID: 7492538626794884383
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=d8c24f8092f8442ea8254dbc7b8e54ab&is_play_url=1&item_id=7492538626794884383&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjI3NjRlNDI4NWQyZjc3MTkwZDYyMDRmZTIwOGU3NTE0&tk=tt_chain_token&video_id=v15044gf0000cvtdc3fog65ob9brgvdg
+URL2: https://www.tiktok.com/@allina_ai/video/7492538626794884383
+Author: allina_ai
+stats: {'collectCount': '82705', 'commentCount': '2086', 'diggCount': '1762027', 'playCount': '7273682', 'repostCount': '0', 'shareCount': '36908'}
+hashtags: ['outfitinspo', 'coachella']
+sound: som original, original: True
+date created: 2025-04-13 05:16:59
+----------------------------------------
+Video ID: 7489980014902136110
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=29d70cf445bd4312a624001593e684f0&is_play_url=1&item_id=7489980014902136110&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmI2MjEzOTY0YTM5NzRlYTU5NmViMTk1MTNmZmEwMzRi&tk=tt_chain_token&video_id=v12044gd0000cvos0v7og65lmh3g6ong
+URL2: https://www.tiktok.com/@luvvblancaa/video/7489980014902136110
+Author: luvvblancaa
+stats: {'collectCount': '80438', 'commentCount': '2878', 'diggCount': '1433831', 'playCount': '6807597', 'repostCount': '0', 'shareCount': '10723'}
+hashtags: ['outfitinspo', 'summeroutfit']
+sound: My Bubble Gum, original: False
+date created: 2025-04-06 07:48:16
+----------------------------------------
+Video ID: 7492773125923425558
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=7d10b9f0485648adba06f31ea60053ef&is_play_url=1&item_id=7492773125923425558&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjBmOWI0YjAzNzY1NGY3NDQ2ZjRhMDRjYTVmYTY3ODcy&tk=tt_chain_token&video_id=v24044gl0000cvtqnvvog65gq50f22k0
+URL2: https://www.tiktok.com/@m9beauty/video/7492773125923425558
+Author: m9beauty
+stats: {'collectCount': '21330', 'commentCount': '3777', 'diggCount': '650410', 'playCount': '5593164', 'repostCount': '0', 'shareCount': '25286'}
+hashtags: ['fyp', 'kalogeras', 'kalogera', 'demitra', 'demitrakalogera', 'sundaykalogera', 'elianakalogera', 'coachella', 'jamescharles', 'katiefang', 'haleybaley', 'nmillz', 'outfits', 'fashion', 'celebrity', 'foryoupage', 'foryou']
+sound: WTHELLY, original: False
+date created: 2025-04-13 20:26:34
+----------------------------------------
+Video ID: 7488099092267076894
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=cb6d5e84877448b2a0fe7d1325172dfa&is_play_url=1&item_id=7488099092267076894&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmEyMWUwZDZiMWM0OTFmMTMyODViZDY3Yzk2NjE0NTVh&tk=tt_chain_token&video_id=v15044gf0000cvlh2e7og65rggfik460
+URL2: https://www.tiktok.com/@_jaylenerios/video/7488099092267076894
+Author: _jaylenerios
+stats: {'collectCount': '20728', 'commentCount': '476', 'diggCount': '461381', 'playCount': '5491618', 'repostCount': '0', 'shareCount': '2768'}
+hashtags: ['ootd', 'outfit', 'style', 'opinion', 'approve', 'debate', 'hoodie', 'tshirt', 'nikepros', 'spring', 'fashion']
+sound: original sound - Neon, original: True
+date created: 2025-04-01 06:09:10
+----------------------------------------
+Video ID: 7492941320944651566
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1c049b8b15a746da8cde67124ec7deb1&is_play_url=1&item_id=7492941320944651566&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjg3ZDlmMTJiYmY4OTA0YzdlMTFmNWQ2YzI5MzVkNGVi&tk=tt_chain_token&video_id=v12044gd0000cvu48ovog65i9srj948g
+URL2: https://www.tiktok.com/@luvvblancaa/video/7492941320944651566
+Author: luvvblancaa
+stats: {'collectCount': '18921', 'commentCount': '890', 'diggCount': '671700', 'playCount': '3835110', 'repostCount': '0', 'shareCount': '5898'}
+hashtags: ['outfitinspo', 'coachellaoutfit']
+sound: original sound, original: True
+date created: 2025-04-14 07:19:40
+----------------------------------------
+Video ID: 7490930505962016022
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=b4efcae29c2a41cab1e46f801bbe3ff8&is_play_url=1&item_id=7490930505962016022&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmViMjViZDgzMjI1ZTBiNmFmMmFjN2M1YmRjZjQyNWY4&tk=tt_chain_token&video_id=v24044gl0000cvqi35nog65q88jut01g
+URL2: https://www.tiktok.com/@ronhiree/video/7490930505962016022
+Author: ronhiree
+stats: {'collectCount': '27221', 'commentCount': '998', 'diggCount': '386626', 'playCount': '3603693', 'repostCount': '0', 'shareCount': '7378'}
+hashtags: ['elegance', 'classyoutfit', 'classy', 'luxurylife', 'richman', 'richwoman', 'fyp', 'mostviralvideo', 'fashiontok', 'elegantstyle', 'outfitinspo', 'oldmoney']
+sound: orijinal ses, original: True
+date created: 2025-04-08 21:16:16
+----------------------------------------
+Video ID: 7492213802587704622
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=f6c2cfce54fd4c2ca05ff2c46ae4d576&is_play_url=1&item_id=7492213802587704622&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQyNjhhMzdjNjkzZjlmNzlkMzMzNDcxMzkyMWJhNzc4&tk=tt_chain_token&video_id=v12044gd0000cvsr1efog65uo9ajning
+URL2: https://www.tiktok.com/@leanortizz/video/7492213802587704622
+Author: leanortizz
+stats: {'collectCount': '28292', 'commentCount': '1310', 'diggCount': '558853', 'playCount': '3508301', 'repostCount': '0', 'shareCount': '6884'}
+hashtags: ['coachella', 'outfit', 'coachellaoutfit', 'coachella2025', 'outfitinspo', 'gdwm', 'grwm']
+sound: original sound, original: True
+date created: 2025-04-12 08:16:39
+----------------------------------------
+Video ID: 7489542996422135062
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=882ac07201674982a06dd05e15cb4198&is_play_url=1&item_id=7489542996422135062&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmQzNTc4MWY1MjljZDlkMmY1ZDQ3MDkwMGFiZTUyYjZi&tk=tt_chain_token&video_id=v24044gl0000cvo34sfog65upcjaej4g
+URL2: https://www.tiktok.com/@stvri0st/video/7489542996422135062
+Author: stvri0st
+stats: {'collectCount': '44702', 'commentCount': '1746', 'diggCount': '439794', 'playCount': '3221423', 'repostCount': '0', 'shareCount': '13885'}
+hashtags: ['beautiful', 'in', 'this', 'generation', 'fuck', 'beauty', '90s', 'model', 'models', 'modelfashion', 'fashion', 'modelbeauty', 'icon', 'icons', 'real', 'realbeauty', 'makeviral', 'makemefamous', 'makeviralvideo', 'foryou', 'modelface', 'lovefashion', 'fyp', 'viral', 'shalomharlow', 'adrianalima', 'brookeshields', 'giselebundchen', 'yasmeenghauri', 'naomicampbell', 'interesting', 'fashionfavorites', 'fashionfamous', 'pretty']
+sound: Originalton, original: True
+date created: 2025-04-05 03:32:00
+----------------------------------------
+Video ID: 7492659594846833966
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1219c4ef9d8e4138b4551a26548b9c1f&is_play_url=1&item_id=7492659594846833966&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmY5NDk5MTMxNzVkMzhhMDA5MGJhMWZlMGRiNGFmYjQ0&tk=tt_chain_token&video_id=v12044gd0000cvtk92fog65ujb02tv8g
+URL2: https://www.tiktok.com/@ootd/video/7492659594846833966
+Author: ootd
+stats: {'collectCount': '12259', 'commentCount': '417', 'diggCount': '184345', 'playCount': '3208466', 'repostCount': '0', 'shareCount': '7923'}
+hashtags: ['ootd', 'revolvefestival', 'coachella', 'festival', 'outfit']
+sound: Poker Face, original: False
+date created: 2025-04-13 13:06:53
+----------------------------------------
+Video ID: 7491768370149281070
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=f5a9fe21811c4f9080c204494249493c&is_play_url=1&item_id=7491768370149281070&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmQ4MjYwY2U2MmNmNjA1ZTUwMjI3ZmQ5OWI3NDg1Nzg4&tk=tt_chain_token&video_id=v12044gd0000cvs1m8vog65jliu9nnrg
+URL2: https://www.tiktok.com/@quintagevintage/video/7491768370149281070
+Author: quintagevintage
+stats: {'collectCount': '18588', 'commentCount': '2148', 'diggCount': '324629', 'playCount': '3034467', 'repostCount': '0', 'shareCount': '4382'}
+hashtags: ['vintageclothes', 'vintagefashion', 'thrift', 'thrifted', 'fashiontok']
+sound: Two Weeks, original: False
+date created: 2025-04-11 03:27:46
+----------------------------------------
+Video ID: 7492946321372957998
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=6bc16424c18b425bb243c4f334f58df5&is_play_url=1&item_id=7492946321372957998&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjI0ODQ2ZjIxNDA2ODQ3NGNmMjMyN2E1ZTMzMGYxZjZi&tk=tt_chain_token&video_id=v12044gd0000cvu4m4vog65pk0007uc0
+URL2: https://www.tiktok.com/@luvvblancaa/video/7492946321372957998
+Author: luvvblancaa
+stats: {'collectCount': '27749', 'commentCount': '1106', 'diggCount': '599328', 'playCount': '2783256', 'repostCount': '0', 'shareCount': '6892'}
+hashtags: ['outfitinspo', 'coachellaoutfit', 'coachella', 'westernfashion']
+sound: My Bubble Gum, original: False
+date created: 2025-04-14 07:39:04
+----------------------------------------
+Video ID: 7489187880884112683
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=39ec039876294169ac1423db64c3e5f3&is_play_url=1&item_id=7489187880884112683&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmI1YjFiZTUzMGEyMWEwMTZiNzk0OGEzOWE0N2UyNjk4&tk=tt_chain_token&video_id=v12044gd0000cvnf187og65h5gsv0mq0
+URL2: https://www.tiktok.com/@luvvblancaa/video/7489187880884112683
+Author: luvvblancaa
+stats: {'collectCount': '24666', 'commentCount': '1768', 'diggCount': '291129', 'playCount': '2362056', 'repostCount': '0', 'shareCount': '11868'}
+hashtags: ['ootw', 'outfitinspo', 'collegefits']
+sound: original sound, original: True
+date created: 2025-04-04 04:34:10
+----------------------------------------
+Video ID: 7492964625189735726
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=5d4d6499aad0459db8b5a3cadf7df77c&is_play_url=1&item_id=7492964625189735726&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjg3ZGJkMzg0Nzc3YjdiYWUyNjM3OTJhYzUzZjZjZDhj&tk=tt_chain_token&video_id=v12044gd0000cvu5ls7og65mand8mkcg
+URL2: https://www.tiktok.com/@allina_ai/video/7492964625189735726
+Author: allina_ai
+stats: {'collectCount': '28179', 'commentCount': '572', 'diggCount': '613372', 'playCount': '2304791', 'repostCount': '0', 'shareCount': '7350'}
+hashtags: ['outfitinspo', 'coachella']
+sound: sonido original - 𝙠𝙭𝙩𝙩𝙨, original: False
+date created: 2025-04-14 08:49:59
+----------------------------------------
+Video ID: 7492543788733254943
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=279eb038ffeb40c1b81545dd3a03bdcd&is_play_url=1&item_id=7492543788733254943&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjg5ZjE3ODQzNzFmM2JjYjYzOTViNTc1NzBkZWE4MTI1&tk=tt_chain_token&video_id=v15044gf0000cvtdo47og65hlkaq2j50
+URL2: https://www.tiktok.com/@bitchettez/video/7492543788733254943
+Author: bitchettez
+stats: {'collectCount': '44763', 'commentCount': '1187', 'diggCount': '462309', 'playCount': '2096898', 'repostCount': '0', 'shareCount': '29980'}
+hashtags: ['wedding', 'weddingdress', 'dresses', 'iconicdress', 'dresstok', 'fashion', 'fyp', 'fypシ', 'foryou', 'cinderella', 'cinderelladress', 'barbie', 'swanlake', 'viviennewestwood', 'infinitynikki', 'princessjellyfish', 'weddingtiktok']
+sound: art deco, original: True
+date created: 2025-04-13 05:37:01
+----------------------------------------
+Video ID: 7491461579792190750
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=46b2cb49090e4b52bfff8a183327c28d&is_play_url=1&item_id=7491461579792190750&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmM0ZDExNmFjNjE4NmYzMDFkMzA4NmFhOTk3YjkzYWEx&tk=tt_chain_token&video_id=v15044gf0000cvrg5jvog65opejh8bd0
+URL2: https://www.tiktok.com/@shopfemmenina/video/7491461579792190750
+Author: shopfemmenina
+stats: {'collectCount': '66098', 'commentCount': '588', 'diggCount': '460432', 'playCount': '1987512', 'repostCount': '0', 'shareCount': '26334'}
+hashtags: ['coquette', 'coquettefashion', 'coquetteaesthetic', 'slowfashion', 'femmenina']
+sound: sonido original, original: True
+date created: 2025-04-10 07:37:26
+----------------------------------------
+Video ID: 7492880806088641797
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=9d0effd3c50b43cdadb1b6035d46f9b9&is_play_url=1&item_id=7492880806088641797&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmUzMTYxMjczY2RjNTA5N2ViMzA5MjNjZTI1NWIxNmMy&tk=tt_chain_token&video_id=v09044g40000cvu0u17og65id062jan0
+URL2: https://www.tiktok.com/@sedjropointelle/video/7492880806088641797
+Author: sedjropointelle
+stats: {'collectCount': '11074', 'commentCount': '1707', 'diggCount': '253008', 'playCount': '1892224', 'repostCount': '0', 'shareCount': '16247'}
+hashtags: ['outfitoftheday', 'outfitinspiration', 'hautecouture', 'outfitinspo', 'ice', 'fruits', 'magazine', 'sedjroxx']
+sound: son original, original: True
+date created: 2025-04-14 03:24:28
+----------------------------------------
+Video ID: 7492200790166179118
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=077ac28823aa49aabc8c60b9dfcee121&is_play_url=1&item_id=7492200790166179118&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjYxNDkwZDgxODg4NDM1NWRlMzJmMDYxM2Y0ZDI5YjE1&tk=tt_chain_token&video_id=v12044gd0000cvsqa17og65g2nn7h6sg
+URL2: https://www.tiktok.com/@luvvblancaa/video/7492200790166179118
+Author: luvvblancaa
+stats: {'collectCount': '13914', 'commentCount': '423', 'diggCount': '231919', 'playCount': '1778054', 'repostCount': '0', 'shareCount': '2984'}
+hashtags: ['outfitinspo', 'summerclothes', 'coachellaoutfit']
+sound: My Bubble Gum, original: False
+date created: 2025-04-12 07:26:00
+----------------------------------------
+Video ID: 7492074077419539742
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=d1f939cbc72548fda1a37b958c371700&is_play_url=1&item_id=7492074077419539742&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjlhMDIwNmIxMzJlYTg5NzUwNzAzMjUyZWVkMTUyYWFh&tk=tt_chain_token&video_id=v15044gf0000cvsj3c7og65gk714t3dg
+URL2: https://www.tiktok.com/@sofyashion/video/7492074077419539742
+Author: sofyashion
+stats: {'collectCount': '29761', 'commentCount': '1831', 'diggCount': '328145', 'playCount': '1706956', 'repostCount': '0', 'shareCount': '34291'}
+hashtags: ['target', 'fyp', 'brandymelville', 'brandymelvillehaul', 'fashiontiktok', 'fashionisland', 'stylefyp', 'brandygirl', 'brandymelvilleusa', 'pacsun', 'urbanoutfitters', 'pinterestaesthetic', 'pinterestgirl', 'pinterestlife', 'pinterestoutfit', 'outfitinspo', 'fashionfyp', 'fashiontok', 'haultok', 'styleinspo', 'whatiwearinaday', 'fitspo', 'aesthetic', 'aesthetichaul', 'aestheticoutfits', 'aestheticbrandy']
+sound: Seven, original: False
+date created: 2025-04-11 23:14:41
+----------------------------------------
+Video ID: 7491823564304272686
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=45155e6d2e5541eb87c9429fc7827cde&is_play_url=1&item_id=7491823564304272686&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmNjYTVjYjFmOGMyYzNhMjAxYmFhMWZlMWUxMDFmNzE1&tk=tt_chain_token&video_id=v12044gd0000cvs4rcvog65pbh8edcig
+URL2: https://www.tiktok.com/@kennedyylanesee/video/7491823564304272686
+Author: kennedyylanesee
+stats: {'collectCount': '7164', 'commentCount': '438', 'diggCount': '211194', 'playCount': '1601721', 'repostCount': '0', 'shareCount': '1096'}
+hashtags: ['outfit', 'outfitinspo']
+sound: original sound, original: True
+date created: 2025-04-11 07:01:57
+----------------------------------------
+Video ID: 7491296973228739862
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=a65cc4e6ebd74e87815762731a12093a&is_play_url=1&item_id=7491296973228739862&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmQ2OTIzYzc5Yjg4NTFkYTI0YWRjYjllOTM4Zjk4ZDZl&tk=tt_chain_token&video_id=v24044gl0000cvr6pg7og65mjgcl1q2g
+URL2: https://www.tiktok.com/@lauradebarra/video/7491296973228739862
+Author: lauradebarra
+stats: {'collectCount': '66474', 'commentCount': '436', 'diggCount': '90462', 'playCount': '1534175', 'repostCount': '0', 'shareCount': '10987'}
+hashtags: ['laundry', 'launder', 'washing', 'washingclothes', 'garmentgoddess', 'laundryday', 'slowfashion', 'slowfashionmovement', 'ecocleaning', 'vinegar', 'fashion', 'fashiontips', 'laundryhack', 'tips', 'clothingcare', 'whitetshirt']
+sound: original sound, original: True
+date created: 2025-04-09 20:58:22
+----------------------------------------
+Video ID: 7491805772569939207
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=8c5ef14519b04b66be6e767251510e47&is_play_url=1&item_id=7491805772569939207&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmRjNmFhYTY0ZTFhY2M5NTVmMWJiOWFhODFlMTAzZjIx&tk=tt_chain_token&video_id=v14044g50000cvs3qofog65qqhmibn6g
+URL2: https://www.tiktok.com/@iloveyougrogia/video/7491805772569939207
+Author: iloveyougrogia
+stats: {'collectCount': '26277', 'commentCount': '528', 'diggCount': '348830', 'playCount': '1479727', 'repostCount': '0', 'shareCount': '6359'}
+hashtags: ['hair', 'outfitinspo', 'fashion']
+sound: Originalton, original: True
+date created: 2025-04-11 05:52:47
+----------------------------------------
+Video ID: 7493185338052070678
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=18f758c3bf64429894ad0542c4fd3f6a&is_play_url=1&item_id=7493185338052070678&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjIzNTA0OTBkNzQzNmQxOWRjYjA4ZDQzMzYwZjIwZWVk&tk=tt_chain_token&video_id=v24044gl0000cvui6c7og65h3qfk5bpg
+URL2: https://www.tiktok.com/@_riverss_/video/7493185338052070678
+Author: _riverss_
+stats: {'collectCount': '2793', 'commentCount': '206', 'diggCount': '174214', 'playCount': '1372297', 'repostCount': '0', 'shareCount': '1599'}
+hashtags: []
+sound: blackout 🧊, original: False
+date created: 2025-04-14 23:06:11
+----------------------------------------
+Video ID: 7489723070748347665
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=ea14eccf360d47a891dc692b9d29551f&is_play_url=1&item_id=7489723070748347665&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmY5NDYyN2I0MWMyZWEwY2YyYzVkNDU2ZjIzMWQ2ZThi&tk=tt_chain_token&video_id=v14044g50000cvodf07og65lgrhn6ceg
+URL2: https://www.tiktok.com/@theconnelltwinsreal/video/7489723070748347665
+Author: theconnelltwinsreal
+stats: {'collectCount': '15398', 'commentCount': '461', 'diggCount': '142706', 'playCount': '1333802', 'repostCount': '0', 'shareCount': '21942'}
+hashtags: ['skims', 'sundress', 'ootd', 'foryou', 'twins', 'trend', 'fypシ゚']
+sound: original sound, original: True
+date created: 2025-04-05 15:11:02
+----------------------------------------
+Video ID: 7488471984150646062
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=e2344a48beb447b38fb2a326da81668d&is_play_url=1&item_id=7488471984150646062&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjMwM2NhYmI3NzVlNDMyZDcxYTFjZDc0OThiOWEyMDdj&tk=tt_chain_token&video_id=v12044gd0000cvm6b9fog65t393288j0
+URL2: https://www.tiktok.com/@secondbiteshop/video/7488471984150646062
+Author: secondbiteshop
+stats: {'collectCount': '50794', 'commentCount': '1096', 'diggCount': '317794', 'playCount': '1210154', 'repostCount': '0', 'shareCount': '21811'}
+hashtags: ['slowfashion', 'foryou', 'kc', 'kansascity', 'sewing', 'kcmo', 'embroidery', 'buttonhook', 'accessory', 'secondbiteshop']
+sound: Città vuota, original: False
+date created: 2025-04-02 06:16:38
+----------------------------------------
+Video ID: 7488334380377574678
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1f14157af8e543139a3963a7f50316ca&is_play_url=1&item_id=7488334380377574678&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjIzNTA1ZmY2Zjc0NDNjODljYWViM2RjMDY0MTM4YjVi&tk=tt_chain_token&video_id=v24044gl0000cvlugo7og65g6q9h5gmg
+URL2: https://www.tiktok.com/@liwei.prrr/video/7488334380377574678
+Author: liwei.prrr
+stats: {'collectCount': '25675', 'commentCount': '1033', 'diggCount': '308768', 'playCount': '1189818', 'repostCount': '0', 'shareCount': '9357'}
+hashtags: ['ootd', 'outfit', 'jewelry']
+sound: original sound, original: True
+date created: 2025-04-01 21:21:58
+----------------------------------------
+Video ID: 7490584286878354710
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=ab786606fc1b4a74befbb27c4e3932e8&is_play_url=1&item_id=7490584286878354710&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmFhNGY3MTBkNzA0OTdkNTdiOGUxMGYyZGZiMmMzMzk4&tk=tt_chain_token&video_id=v24044gl0000cvpu7sfog65ijeb006h0
+URL2: https://www.tiktok.com/@georgiedobson/video/7490584286878354710
+Author: georgiedobson
+stats: {'collectCount': '19573', 'commentCount': '173', 'diggCount': '41350', 'playCount': '1158623', 'repostCount': '0', 'shareCount': '3209'}
+hashtags: ['springoutfit', 'ootd', 'styleinspo', 'zara', 'zarahaul', 'zaraoutfit', 'minimalstyle', 'casualoutfits', 'myoutfit', 'outfits', 'outfit', 'ootdinspo', 'springfashion']
+sound: Tyla Truth Or Dare Mash Up, original: True
+date created: 2025-04-07 22:52:47
+----------------------------------------
+Video ID: 7491740666922355990
+URL1: https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=25a80219102c4c4dae16d6402d7939d0&is_play_url=1&item_id=7491740666922355990&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQ5M2VkNjFkNGYwNmNiYzU2ODliZTU0ZjI3ODA2Njcz&tk=tt_chain_token&video_id=v24044gl0000cvs02rnog65iulcsj6kg
+URL2: https://www.tiktok.com/@robynpridmore/video/7491740666922355990
+Author: robynpridmore
+stats: {'collectCount': '18766', 'commentCount': '187', 'diggCount': '80591', 'playCount': '1114018', 'repostCount': '0', 'shareCount': '9783'}
+hashtags: ['weddingguestdress', 'yellowdress']
+sound: som original, original: True
+date created: 2025-04-11 01:40:04
+----------------------------------------
+TRENDING MUSIC
+----------------------------------------
+Music: My Bubble Gum
+Appearances: 3 in 1000 videos scraped
+Total likes: 2265078, Average Likes: 755026.0
+Total plays: 11368907, Average Plays: 3789635.6666666665
+Total collects: 122101, Average Collects: 40700.333333333336
+Total comments: 4407, Average Comments: 1469.0
+----------------------------------------
+Music: Fashion Killa
+Appearances: 2 in 1000 videos scraped
+Total likes: 32175, Average Likes: 16087.5
+Total plays: 312193, Average Plays: 156096.5
+Total collects: 2137, Average Collects: 1068.5
+Total comments: 43, Average Comments: 21.5
+----------------------------------------
+Music: WTHELLY
+Appearances: 1 in 1000 videos scraped
+Total likes: 650410, Average Likes: 650410.0
+Total plays: 5593164, Average Plays: 5593164.0
+Total collects: 21330, Average Collects: 21330.0
+Total comments: 3777, Average Comments: 3777.0
+----------------------------------------
+Music: Poker Face
+Appearances: 1 in 1000 videos scraped
+Total likes: 184345, Average Likes: 184345.0
+Total plays: 3208466, Average Plays: 3208466.0
+Total collects: 12259, Average Collects: 12259.0
+Total comments: 417, Average Comments: 417.0
+----------------------------------------
+Music: Two Weeks
+Appearances: 1 in 1000 videos scraped
+Total likes: 324629, Average Likes: 324629.0
+Total plays: 3034467, Average Plays: 3034467.0
+Total collects: 18588, Average Collects: 18588.0
+Total comments: 2148, Average Comments: 2148.0
+----------------------------------------
+Music: sonido original - 𝙠𝙭𝙩𝙩𝙨
+Appearances: 1 in 1000 videos scraped
+Total likes: 613372, Average Likes: 613372.0
+Total plays: 2304791, Average Plays: 2304791.0
+Total collects: 28179, Average Collects: 28179.0
+Total comments: 572, Average Comments: 572.0
+----------------------------------------
+Music: Seven
+Appearances: 1 in 1000 videos scraped
+Total likes: 328145, Average Likes: 328145.0
+Total plays: 1706956, Average Plays: 1706956.0
+Total collects: 29761, Average Collects: 29761.0
+Total comments: 1831, Average Comments: 1831.0
+----------------------------------------
+Music: blackout 🧊
+Appearances: 1 in 1000 videos scraped
+Total likes: 174214, Average Likes: 174214.0
+Total plays: 1372297, Average Plays: 1372297.0
+Total collects: 2793, Average Collects: 2793.0
+Total comments: 206, Average Comments: 206.0
+----------------------------------------
+Music: Città vuota
+Appearances: 1 in 1000 videos scraped
+Total likes: 317794, Average Likes: 317794.0
+Total plays: 1210154, Average Plays: 1210154.0
+Total collects: 50794, Average Collects: 50794.0
+Total comments: 1096, Average Comments: 1096.0
+----------------------------------------
+Music: archangel - Slowed
+Appearances: 1 in 1000 videos scraped
+Total likes: 226195, Average Likes: 226195.0
+Total plays: 659964, Average Plays: 659964.0
+Total collects: 35985, Average Collects: 35985.0
+Total comments: 328, Average Comments: 328.0
+----------------------------------------
+report generated as report.txt
