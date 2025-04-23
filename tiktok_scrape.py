@@ -3,7 +3,6 @@ import asyncio
 from datetime import datetime, timedelta
 from proxy import get_proxies, test_proxies
 import random
-#from pyppeteer import launch
 from playwright.async_api import async_playwright
 import sys
 
@@ -81,7 +80,8 @@ async def get_videos_chunked(tags, count, num_sessions=2, chunk_size=30, proxies
             tasks = [(i, asyncio.create_task(trending_videos(api, i, chunk_size))) for i in range(num_sessions)]
         
         #set tag_id to be used to rotate through tags
-        tag_id = (num_sessions-1)%len(tags)
+        if tags != []:
+            tag_id = (num_sessions-1)%len(tags)
 
         #collect videos
         start = datetime.now()
@@ -122,7 +122,7 @@ def print_video_info(video):
         print(f"URL1: {video.as_dict["video"]["bitrateInfo"][0]["PlayAddr"]["UrlList"][-1]}") #using this mp4 from the dict
     except Exception as e:
         print(f"URL1: {e}")
-    print(f"URL2: https://www.tiktok.com/@{video.author.username}/video/{video.id}") #generate based on tiktok format
+    print(f"URL2: https://www.tiktok.com/@{video.author.username}/video/{video.id} ") #generate based on tiktok format
     print(f"Author: {video.author.username}")
     print(f"stats: {video.stats}")
     print(f"hashtags: {[x.name for x in video.hashtags]}")
@@ -213,6 +213,24 @@ def generate_report(results, video_key, after_date, music_key, scrape_count, sho
         print_music_info(music, scrape_count)
 
 
+def generate_report_simplified(results, video_key, after_date, music_key, scrape_count, show, tags, output_file):
+    #all prints is transferred to the output file
+    sys.stdout = open(output_file, "w", encoding="utf-8")
+
+    #print general info
+    print(f"{scrape_count} videos scraped")
+    print(f"videos after {after_date}")
+    print(f"tags: {tags}")
+    
+    #sort the videos and print top
+    results = sort_videos(results, key=video_key, afterDate=after_date)
+    print("TRENDING POSTS")
+    print("-"*40)
+    for i, video in enumerate(results[:show]): #show top results
+        print(f"{i+1}. https://www.tiktok.com/@{video.author.username}/video/{video.id} ")
+
+
+
 if __name__ == "__main__":
 
     #get session proxies
@@ -224,39 +242,40 @@ if __name__ == "__main__":
     print(ms_tokens)
 
     #user input
-    SCRAPE_COUNT = int(input("Enter scrape count: "))
-    after_date = datetime.strptime((input("Enter date to filter by (YYYY-MM-DD):")), "%Y-%m-%d")
-    video_key = input("Enter key to sort videos by (collectCount, playCount, diggCount, commentCount): ")
-    music_key = input("Enter key to sort music by (appearances, likes, plays, collects, comments, or add avg_ to front eg.avg_likes): ")
-    print("NOTE: adding more tags would reduce duplicate videos scraped and allow for a higher scrape count ultimately")
-    tags = []
-    tag=""
-    while tag != "q":
-        tag = input("Enter tags to scrape (enter q to stop): ")
-        if tag != "q":
-            tags.append(tag)
-    show = int(input("Enter amount of posts to show: "))
+    # SCRAPE_COUNT = int(input("Enter scrape count: "))
+    # after_date = datetime.strptime((input("Enter date to filter by (YYYY-MM-DD):")), "%Y-%m-%d")
+    # video_key = input("Enter key to sort videos by (collectCount, playCount, diggCount, commentCount): ")
+    # music_key = input("Enter key to sort music by (appearances, likes, plays, collects, comments, or add avg_ to front eg.avg_likes): ")
+    # print("NOTE: adding more tags would reduce duplicate videos scraped and allow for a higher scrape count ultimately")
+    # tags = []
+    # tag=""
+    # while tag != "q":
+    #     tag = input("Enter tags to scrape (enter q to stop): ")
+    #     if tag != "q":
+    #         tags.append(tag)
+    # show = int(input("Enter amount of posts to show: "))
 
     #default values
-    # SCRAPE_COUNT = 1000
-    # tag = ""
-    # after_date = datetime(2025,4,1,0,0,0)
-    # video_key = "diggCount"
-    # music_key = "likes"
-    # CAELI_TAGS =  ["sustainablefashion", "slowfashion", "quietluxury", "minimalstyle",
-    # "neutraloutfits", "timelessstyle", "sgfashion", "madeinsingapore",
-    # "effortlessstyle", "ecofriendlyfashion", "fashionstartup",
-    # "chicstyle", "modernwoman", "capsulewardrobe", "fashiontok"]
-    # MACRO_TAGS = ["alevels", "olevels", "sgstudents", "studytips", "studywithme",
-    # "studymotivation", "sgtuition", "tuitioncentre", "education",
-    # "academicgoals", "studyhacks", "studentlife", "examseason",
-    # "learnontiktok", "studyvlog"]
+    SCRAPE_COUNT = 1000
+    after_date = datetime(2025,4,6,0,0,0)
+    video_key = "diggCount"
+    music_key = "likes"
+    CAELI_TAGS =  ["sustainablefashion", "slowfashion", "quietluxury", "minimalstyle",
+    "neutraloutfits", "timelessstyle", "sgfashion", "madeinsingapore",
+    "effortlessstyle", "ecofriendlyfashion", "fashionstartup",
+    "chicstyle", "modernwoman", "capsulewardrobe", "fashiontok"]
+    MACRO_TAGS = ["alevels", "olevels", "sgstudents", "studytips", "studywithme",
+    "studymotivation", "sgtuition", "tuitioncentre", "education",
+    "academicgoals", "studyhacks", "studentlife", "examseason",
+    "learnontiktok", "studyvlog"]
+    tags = []
+    show = 30
 
     #get the results of scraping
     results = asyncio.run(get_videos_chunked(tags, SCRAPE_COUNT, num_sessions=4, chunk_size=30, proxies=proxies, ms_tokens=ms_tokens))
 
     #generate report
-    generate_report(results, video_key, after_date, music_key, SCRAPE_COUNT, show, tags, "report.txt")
+    generate_report_simplified(results, video_key, after_date, music_key, SCRAPE_COUNT, show, tags, "report.txt")
     print("report generated as report.txt")
 
 

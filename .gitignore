@@ -1,3 +1,7 @@
 dict_analysis.py
 ratelimit_testing.py
 test.py
+*.json
+results
+accounts.txt
+*.txt

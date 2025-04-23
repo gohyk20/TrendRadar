@@ -2,7 +2,7 @@ import requests
 
 def get_proxies():
     #get link from webshare download button
-    proxy_api = "https://proxy.webshare.io/api/v2/proxy/list/download/vtprcvxjzyexwevisdxpfsnkvngpaaqmcmyypjuu/-/any/username/direct/-/"
+    proxy_api = "" #ENTER YOUR API HERE
     ret = requests.get(proxy_api).text #returns lines of text with proxy info
 
     #parse response
@@ -23,7 +23,6 @@ def get_proxies():
         proxies.append(proxy)
 
     return proxies
-
 
 def test_proxies(proxies):
     working = []
