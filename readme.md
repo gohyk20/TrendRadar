@@ -1,7 +1,7 @@
 
-## Setup
+# Setup
 
-# For tiktok:
+## For tiktok:
 
 1. Install TikTok Api (https://github.com/davidteather/TikTok-Api/tree/main)
 
@@ -9,7 +9,7 @@
 
 3. go to proxy.py and enter your proxy api on line 5 (i use the free proxies from webshare: https://www.webshare.io/, just make an account and click download in the proxy list page)
 
-# For instagram:
+## For instagram:
 
 1. Install instagrapi (https://github.com/subzeroid/instagrapi/tree/master)
 
@@ -22,9 +22,9 @@
 5. go to proxy.py and enter proxy api
 
 
-## How to use
+# How to use
 
-# tiktok
+## tiktok
 
 run tiktok_scrape.py
 
@@ -36,7 +36,7 @@ It will then launch sessions sequentially and print the session info. Afterwards
 
 The final report will be created as report.txt in your current directory
 
-# instagram
+## instagram
 
 create instagram accounts preferabbly with a vpn
 
@@ -47,11 +47,11 @@ The code should hopefully login to the account and use a proxy to start scraping
 The final report will be created as report.txt in your current directory
 
 
-## Errors and How to fix
+# Errors and How to fix
 
 code is quite spaghetti so any changes is appreciated
 
-# tik tok
+## tik tok
 Probably tiktok has a soft rate limit applied to an ip address, when you scrape too many videos at one go, they block you for a bit. I think this refreshes in several hours.
 keep scrape count low and rotate ip among proxies
 
@@ -67,7 +67,7 @@ timeout error - sometimes you just need to retry
 
 ValueError: I/O operation on closed pipe - idk what this means but its not an issue since it doesnt affect the main code
 
-# instagram
+## instagram
 
 login required = this should be fixed automatically by re login
 Challenge required = my fix does not work, idk how to fix this. After too many scrapes instagram flags the account and makes you do a challenge. Prob need to read the instagrapi documentation carefully and figure out how to handle. 
