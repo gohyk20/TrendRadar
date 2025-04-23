@@ -70,6 +70,7 @@ ValueError: I/O operation on closed pipe - idk what this means but its not an is
 ## instagram
 
 login required = this should be fixed automatically by re login
+
 Challenge required = my fix does not work, idk how to fix this. After too many scrapes instagram flags the account and makes you do a challenge. Prob need to read the instagrapi documentation carefully and figure out how to handle. 
 
 current / future workarounds:
